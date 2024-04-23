@@ -1,0 +1,99 @@
+#consulting {
+    margin-left: 20px;
+}
+#ul {
+    margin-left: 650px;
+}
+
+#first{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.2g1QctQHsZTFR_cRU3XBpAHaEo&pid=Api&P=0&h=180");
+    /* background-image: url("https://tse3.mm.bing.net/th?id=OIP.6RYpPqAuu5ZR1YQffzgKZAHaFI&pid=Api&P=0&h=180"); */
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+#serv{
+    margin-bottom: 200px;
+}
+
+#committed {
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    margin-top: 135px;
+    font-size: 20px;
+}
+
+#heading {
+    /* margin-left: 100px; */
+    margin-right: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+#btn{
+    height: 60px;
+}
+
+#btn:hover {
+    background-color: rgb(255, 42, 0);
+   
+}
+
+/* #Services{
+    margin-top: 300px;
+    margin-right: 100px;
+} */
+
+#top{
+    margin-top: 155px;
+    margin-right: 200px;
+}
+
+#mollit {
+    /* color: rgb(217, 215, 239); */
+    margin-right: 100px;
+    font-size: 18px;
+}
+
+#second{
+    background-color: rgb(30, 77, 247);
+    color: white;
+}
+
+.two {
+    margin-top: 140px;  
+}
+
+.our{
+    font-size: 40px;
+}
+
+#image{
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 500px;
+    width: 500px;
+}
+
+#cont{
+    margin-bottom: 70px;
+}
+
+#ad{
+    background-color: rgb(248, 34, 34);
+}
+
+#fld{
+    margin-top: 60px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+#us{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+
+
